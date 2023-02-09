@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/BONUS_TRACK (MENU).ogg-78c6fefce5a0706fa43fb3f41c6e35bb.oggstr"
+
+[deps]
+
+source_file="res://assets/music/BONUS_TRACK (MENU).ogg"
+dest_files=[ "res://.import/BONUS_TRACK (MENU).ogg-78c6fefce5a0706fa43fb3f41c6e35bb.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

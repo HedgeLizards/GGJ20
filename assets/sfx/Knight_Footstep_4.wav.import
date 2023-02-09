@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Knight_Footstep_4.wav-6179303bafba017dae8e412088105966.sample"
+
+[deps]
+
+source_file="res://assets/sfx/Knight_Footstep_4.wav"
+dest_files=[ "res://.import/Knight_Footstep_4.wav-6179303bafba017dae8e412088105966.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
